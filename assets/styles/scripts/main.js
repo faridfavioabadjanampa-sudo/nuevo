@@ -1,0 +1,1 @@
+alert("Landing page lista!");
